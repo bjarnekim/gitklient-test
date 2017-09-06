@@ -1,0 +1,28 @@
+fra video:
+https://www.youtube.com/watch?v=J85lRtO_yjY
+
+var x = function(a){
+  return a;
+}
+alert(x('davs'));
+
+var x = function(a){return a;}
+
+var x = b => b;
+alert(x('davb'));
+
+dvs var = argumenter => return
+fnction er fjernet, return er fjernet
+
+hvis der ikke er parametre.:
+
+var x = () => {alert('her kommer er der ikke nogen parametre')}
+x();
+
+var x = (a,b,c) => a + b + c;
+
+setTimeout( function() { alert('der er gået et sekund');},1000);
+setTimeout( ()=> alert('der er gået et sekund'), 1000);
+
+
+
